@@ -1,5 +1,5 @@
 
-# SK Hynix AI Agent Project - Test Operation Efficiency
+# S사 AI Agent Project - Test Operation Efficiency
 
 Sample FastAPI + LangGraph Agent for AI-driven test operation innovation.
 This project combines FastAPI, LangGraph, PostgreSQL, and a lightweight developer workflow for test operation tooling.
